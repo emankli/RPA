@@ -4,6 +4,8 @@
 ### 所需環境 
 * 在 Windows 10 下使用 WSL 2  建立 Docker 執行環境 
 * WSL2 安裝說明: https://docs.microsoft.com/zh-tw/windows/wsl/install-win10
+* Docker Desktop on Windows 安裝說明: https://docs.docker.com/docker-for-windows/install/
+* (在Docker Desktop安裝後可略過Tutorial)
 
 ### 安裝步驟
 * cd C:\Users\<USER_NAME>\AppData\local
